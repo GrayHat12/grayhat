@@ -6,3 +6,4 @@ Gemfile.lock
 firebase.json
 .firebaserc
 .firebase/
+*.cache
