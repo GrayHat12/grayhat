@@ -1,6 +1,6 @@
-# alexflipnote.dev
+# gray-hat.me
 
-- Site: https://alexflipnote.dev
+- Site: https://gray-hat.me/
 - Usage: Information about myself
 - Framework:
   - [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
