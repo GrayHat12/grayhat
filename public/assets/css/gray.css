@@ -1,0 +1,22 @@
+.chatDiv {
+  width: inherit;
+  height: inherit;
+  color: white;
+  padding: 10px;
+  background-color: transparent;
+}
+.chatWrapper {
+  background-color: #5C5C5C;
+  position: fixed;
+  z-index: 99;
+  bottom: 0px;
+  width: 100%;
+  height: 7%;
+  border-radius: 22px;
+}
+.fullscreen {
+  bottom: 8% !important;
+}
+footer {
+  bottom: 8% !important;
+}
